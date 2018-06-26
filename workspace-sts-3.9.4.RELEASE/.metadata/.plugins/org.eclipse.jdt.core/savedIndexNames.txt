@@ -1,1 +1,0 @@
-INDEX VERSION 1.130+C:\Users\Rohan\Documents\workspace-sts-3.9.4.RELEASE\.metadata\.plugins\org.eclipse.jdt.core
